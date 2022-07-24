@@ -1,0 +1,11 @@
+{
+    "name":"Gano Excel İnfo",
+    "description":"Gano Excel ürün bilgisi v1.0",
+    "version":1.0,
+    "changes":[
+      "Drawer eklendi",
+      "Ürünleri listeleme seçeneği eklendi",
+      "Sepet local veri tabanına kaydedildi",
+      "Favori eklendi"
+    ]
+ }
