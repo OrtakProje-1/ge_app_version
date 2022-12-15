@@ -3,10 +3,8 @@
     "description":"Gano Excel ürün bilgisi v1.2",
     "version":1.2,
     "changes":[
-      "Drawer eklendi",
-      "Ürünleri listeleme seçeneği eklendi",
-      "Sepet local veri tabanına kaydedildi",
-      "Favori eklendi"
+      "Sepet ekranı düzenlendi",
+      "Paketler eklendi"
     ],
      "apks": [
         "universal",
