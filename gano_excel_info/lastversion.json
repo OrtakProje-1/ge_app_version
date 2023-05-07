@@ -1,13 +1,11 @@
 {
   "name": "Gano Excel İnfo",
-  "description": "Gano Excel ürün bilgisi v1.3",
-  "version": 1.3,
+  "description": "Gano Excel ürün bilgisi v1.4",
+  "version": 1.4,
   "changes": [
-    "Sepet ekranında sepet detayları kısmı düzenlendi",
-    "Resimleri büyütme özelliği eklendi",
-    "Sepet ekranı düzenlendi",
-    "kargo ücreti eklendi",
-    "Paketler eklendi"
+    "Paketlerin `ürünler` kısmındaki tasarım, pakete göre ayarlandı",
+    "İlk açılışta internet kontrolü eklendi",
+    "Ufak hata düzeltmeleri yapıldı"
   ],
-  "apks": ["universal", "arm64-v8a", "armeabi-v7a"]
+  "apks": ["arm64-v8a", "armeabi-v7a", "universal"]
 }
