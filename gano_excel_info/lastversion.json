@@ -1,11 +1,14 @@
 {
   "name": "Gano Excel İnfo",
   "description": "Gano Excel ürün bilgisi v1.4",
-  "version": 1.4,
+  "version": 1.5,
+  "minSdk":19,
   "changes": [
-    "Paketlerin `ürünler` kısmındaki tasarım, pakete göre ayarlandı",
-    "İlk açılışta internet kontrolü eklendi",
-    "Ufak hata düzeltmeleri yapıldı"
+      "Ürünlerinizin takibini yapabileceğiniz `ürünlerim` sekmesi eklendi"
   ],
-  "apks": ["arm64-v8a", "armeabi-v7a", "universal"]
+  "apks": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "universal"
+  ]
 }
