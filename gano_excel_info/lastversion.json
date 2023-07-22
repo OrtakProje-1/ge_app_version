@@ -1,14 +1,15 @@
 {
-  "name": "Gano Excel İnfo",
-  "description": "Gano Excel ürün bilgisi v1.6",
-  "version": 1.6,
-  "minSdk":19,
-  "changes": [
-      "Ürünlerim ekranındaki kayıt sorunu düzeltildi"
-  ],
-  "apks": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "universal"
-  ]
+    "name": "Gano Excel İnfo",
+    "description": "Gano Excel ürün bilgisi v1.7",
+    "version": 1.7,
+    "minSdk":19,
+    "changes": [
+        "Kargo ücreti için minimum alışveriş fiyatı 500₺ den 800₺ ye güncellendi"
+        
+    ],
+    "apks": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "universal"
+    ]
 }
