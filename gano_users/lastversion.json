@@ -1,7 +1,7 @@
 {
     "name": "Gano Users",
     "description": "Gano Users v1.0",
-    "version": 1.0,
+    "version": 1.1,
     "minSdk":21,
     "changes": [
         "Otomatik güncelleme eklendi",
