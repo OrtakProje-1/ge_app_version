@@ -1,0 +1,18 @@
+{
+    "name": "Gano Excel İnfo",
+    "description": "Gano Excel ürün bilgisi v2.0",
+    "version": 2.0,
+    "minSdk":19,
+    "changes": [
+        "Önemli: Bu sürüm ayrı bir uygulama olarak kurulur; eski kayıtlar otomatik aktarılmaz. Önce yeni uygulamayı kurun, eski uygulamadaki ürün ve adetlerinizi kontrol ederek yeniden ekleyin. İşlemi tamamladıktan sonra eski uygulamayı kaldırın. Eski uygulamayı kaldırmak, içindeki yerel kayıtları silebilir.",
+        "Uygulama tasarımı yenilendi; ürün ve fiyat bilgileri daha anlaşılır hale getirildi.",
+        "Elinizdeki ürünleri adetleriyle birlikte toplu ekleme özelliği eklendi.",
+        "Arama, sepet kontrolleri ve güncelleme ekranları iyileştirildi."
+
+    ],
+    "apks": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "universal"
+    ]
+}
